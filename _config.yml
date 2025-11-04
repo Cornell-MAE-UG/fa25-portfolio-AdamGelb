@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Adam Gelb
 description              : Adam Gelb - Projects and CV 
-baseurl                  : "fa25-portfolio-AdamGelb" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-AdamGelb" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
