@@ -1,16 +1,19 @@
 ---
 layout: default
-title: <Your Name>
+title: Adam Gelb
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Adam_headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Adam Gelb, and I am a junior studying Mechanical Engineering at Cornell University. I love problem solving, building, designing, and all things engineering. Outside of academics, I am the vice president and assistant coach of Cornell Rowing Club, where I help manage the team of over 50 members for year-round practices three days a week. I am also the recorder and house manager at Sigma Alpha Mu fraternity, where I am responsible for all communication inside and outside of the fraternity with Cornell and Nationals. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I am a passionate learner and love to take on tough challenges to work through a way to a solution. I am a dedicated, hard-working individual who excels in a team.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a>, <a href="{{ "/cv/" | relative_url }}">CV</a> and 
+    <a href="{{ "assets/files/Adam_Gelb_Resume.pdf" | relative_url }}" target="_blank" rel="noopener">Download my resume (PDF)</a>
+
