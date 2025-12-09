@@ -22,7 +22,7 @@ Aspiring engineering student with a strong foundation in physics, math and enign
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 3.4/4.0 | Graduation: May 2027
 
-- **[High School Name]**  
+- **Paul D. Schreiber High School**  
   *High School Diploma*  
   Graduation: May 2023
 
@@ -31,7 +31,7 @@ Aspiring engineering student with a strong foundation in physics, math and enign
 #### Skills
 - **Software:** Autodesk Fusion 360, Excel  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting, Woodworking  
+- **Tools:** 3D Printing, Woodworking, Metalworking 
 
 ---
 
@@ -41,6 +41,20 @@ Aspiring engineering student with a strong foundation in physics, math and enign
   - Learned to work with a team to come up with an idea, design, iterate, prototype, and build effectively  
   - Made a working trash compactor for a dorm room sized can using a mix of mechanics and electronics 
 
+-**Fluid Mechanical Dissection in MAE 3230**
+  *Took apart a salon chair and explored how it uses a hydraulic jack to operate effectively*
+  - Connected an everyday object to fluid mechanics by taking apart the hydraulic jack and examining how its pieces worked together
+  - Created a 5 minute video illustrating our findings, including our dissection, relations back to fluid mechanics, and the math behind how it works
+
+-**Final Group Work in MAE 3260**
+  *Developed a model to determine how an active suspension system can be used in a quarter car model*
+  - Made a state space of a quarter car, using masses, springs, dampers, and a forcing function
+  - Wrote a MATLAB script to produce Bode plots and data for passive and active suspension systems
+
+-**Torque Wrench design in MAE 3270**
+  *Created an improved design for a torque wrench based on various guidelines including safety factors and strain gauge output*
+  - Developed a python script to measure all necessary requirements and measurements for torque wrench
+  - Created a model of the torque wrench in Fusion 360, and used ANSYS to simulate and evaluate the model
 
 ---
 
