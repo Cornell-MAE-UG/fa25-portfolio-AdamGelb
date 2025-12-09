@@ -1,8 +1,7 @@
 ---
 layout: project
-title: Open Design Project
+title: MAE 3230 - Fluid Mechanical Dissection
 description: Class project
-technologies: [Fusion 360, 3D printing, Woodworking]
 image: /assets/images/Trash-compactor.jpeg
 ---
 

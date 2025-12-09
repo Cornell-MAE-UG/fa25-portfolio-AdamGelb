@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Open Design Project
+title: MAE 3260 - Active Suspension Design
 description: Class project
-technologies: [Fusion 360, 3D printing, Woodworking]
+technologies: [MATLAB]
 image: /assets/images/Trash-compactor.jpeg
 ---
 
