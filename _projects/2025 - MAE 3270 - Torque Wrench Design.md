@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3270 - Torque Wrench Design
+title: Torque Wrench Design
 description: Class project
 technologies: [ANSYS, Fusion 360, Python]
 image: /assets/images/Trash-compactor.jpeg

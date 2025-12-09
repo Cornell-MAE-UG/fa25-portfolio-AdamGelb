@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3230 - Fluid Mechanical Dissection
+title: Fluid Mechanical Dissection
 description: Class project
 image: /assets/images/Trash-compactor.jpeg
 ---

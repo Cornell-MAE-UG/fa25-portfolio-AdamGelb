@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3260 - Active Suspension Design
+title: Active Suspension Design
 description: Class project
 technologies: [MATLAB]
 image: /assets/images/Trash-compactor.jpeg
