@@ -5,10 +5,10 @@ description: Class project
 technologies: [ANSYS, Fusion 360, Python]
 image: /assets/images/TW-total-deformation.png
 ---
+<img src="/assets/images/TW-total-deformation.png" style="width: 100%; height: auto;" />
 
+<br>
 
-  
-  
   As part of a class project, I was challenged to design and test a torque wrench that had to adhere to certain requirements. I was first given a base design, and had to iterate from that to get a new design which had to have:
 
   
