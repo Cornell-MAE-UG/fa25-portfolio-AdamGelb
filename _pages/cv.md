@@ -43,21 +43,18 @@ Aspiring engineering student with a strong foundation in physics, math and enign
 
 
 - **Fluid Mechanical Dissection in MAE 3230**:
-
   *Took apart a salon chair and explored how it uses a hydraulic jack to operate effectively*
   - Connected an everyday object to fluid mechanics by taking apart the hydraulic jack and examining how its pieces worked together
   - Created a 5 minute video illustrating our findings, including our dissection, relations back to fluid mechanics, and the math behind how it works
 
 
 - **Final Group Work in MAE 3260**:
-
   *Developed a model to determine how an active suspension system can be used in a quarter car model*
   - Made a state space of a quarter car, using masses, springs, dampers, and a forcing function
   - Wrote a MATLAB script to produce Bode plots and data for passive and active suspension systems
 
 
 - **Torque Wrench design in MAE 3270**:
-
   *Created an improved design for a torque wrench based on various guidelines including safety factors and strain gauge output*
   - Developed a python script to measure all necessary requirements and measurements for torque wrench
   - Created a model of the torque wrench in Fusion 360, and used ANSYS to simulate and evaluate the model
