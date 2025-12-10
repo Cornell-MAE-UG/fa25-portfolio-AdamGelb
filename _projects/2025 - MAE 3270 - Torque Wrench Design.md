@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench Design
 description: Class project
 technologies: [ANSYS, Fusion 360, Python]
-image: /assets/images/TW-total-deformation.png
+image: /assets/images/TW-thumbnail.png
 ---
 
 <br>
