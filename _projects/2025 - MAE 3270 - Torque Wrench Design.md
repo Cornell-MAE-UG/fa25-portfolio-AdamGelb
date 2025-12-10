@@ -9,6 +9,7 @@ image: /assets/images/TW-total-deformation.png
 
 As part of a class project, I was challenged to design and test a torque wrench that had to adhere to certain requirements. I was first given a base design, and had to iterate from that to get a new design which had to have:
 
+  
   - At least 1.0 mV/V output at the rated torque of 600 in-lbf
   - Safety factor for yield >= 4
   - Safety factor for crack growth >=2 for an assumed crack depth of 0.04 inches
