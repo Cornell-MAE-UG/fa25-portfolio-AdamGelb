@@ -2,35 +2,16 @@
 layout: project
 title: Fluid Mechanical Dissection
 description: Class project
-image: /assets/images/Trash-compactor.jpeg
+image: /assets/images/FMD-thumbnail.jpeg
 ---
 
+Below is a video of my group's fluid mechanical dissection, where we were given a salon chair, and asked to take it apart and determine how it works through the lens of fluid mechanics. We determined that it operates very similar to a hydraulic jack, and it uses pressure buildup and mechanical advantage to raise and lower the ram.
 
-As part of a class project, I was put in a team of four people where we were tasked with coming up with a working prototype to solve a problem in a dorm room. Other than some general requirements, this is all that we were given. Through seven different steps, we had to go from an idea to a working prototype, in about 2 months time. These steps included: 
-    - Idea generation and brainstorming
-    - "Scrappy" prototype of three ideas
-    - Revision and iteration
-    - Picking a final design
-    - Initial prototype
-    - Revision and iteration 
-    - Final Prototype
+My section of the video is the first minute, where I describe how the inside of the cylinder works. I drew a cross section of the cylinder, and described how the oil moves throuhgout the container to create a pressure buildup underneath the ram that moves it. 
 
+Here is the final video, including all sections from all group members:
 
-Below are photos documenting our process from step one to step seven:
-
-Initial Brainstorm:
-  <img src="{{ '/assets/images/Initial-Brainstorm.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-Initial Design:
-  <img src="{{ '/assets/images/initial-design.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-First Prototype:
-  <img src="{{ '/assets/images/first-prototype.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-First Build:
-  <img src="{{ '/assets/images/first-build.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-Final Prototype:
-  <img src="{{ '/assets/images/Trash-compactor.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-
+<video width="100%" controls>
+  <source src="/assets/videos/fluids-project.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
