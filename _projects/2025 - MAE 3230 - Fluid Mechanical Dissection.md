@@ -11,7 +11,7 @@ My section of the video is the first minute, where I describe how the inside of 
 
 Here is the final video, including all sections from all group members:
 
-<video width="640" controls>
-  <source src="fluids-project.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video width="640" controls playsinline preload="metadata" poster="{{ '/assets/images/FMD-thumbnail.png' | relative_url }}">
+  <source src="{{ '/assets/files/fluids-project.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag. You can <a href="{{ '/assets/files/fluids-project.mp4' | relative_url }}">download the video</a> instead.
 </video>
