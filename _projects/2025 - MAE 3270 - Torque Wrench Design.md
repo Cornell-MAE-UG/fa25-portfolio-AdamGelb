@@ -16,7 +16,7 @@ As part of a class project, I was challenged to design and test a torque wrench 
   - Safety factor for fatigue stress >=1.5
   - Material must be a steel ,aluminum, or titanium alloy
 
-After writing a python script to determine these values based on the dimensions of the torque wrench, I found that the following dimensions were sufficient, and which can be seen in the following images from Fusion 360 and the diagram of the torque wrench:
+1) After writing a python script to determine these values based on the dimensions of the torque wrench, I found that the following dimensions were sufficient, and which can be seen in the following images from Fusion 360 and the diagram of the torque wrench:
 
   <img src="{{ '/assets/images/TW-dimensions.png' | relative_url }}" alt="Torque Wrench Dimensions" style="max-width:100%;height:auto;border-radius:6px;">
 
