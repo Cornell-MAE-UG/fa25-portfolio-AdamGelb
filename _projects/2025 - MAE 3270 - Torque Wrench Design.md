@@ -15,7 +15,7 @@ image: /assets/images/TW-total-deformation.png
   - Safety factor for yield >= 4
   - Safety factor for crack growth >=2 for an assumed crack depth of 0.04 inches
   - Safety factor for fatigue stress >=1.5
-  - Material must be a steel ,aluminum, or titanium alloy
+  - Material must be a steel, aluminum, or titanium alloy
 
 **1. Images and dimensions**:
 
@@ -38,22 +38,22 @@ image: /assets/images/TW-total-deformation.png
 
 **2. Material Used**:
 
-  The material I picked for this design was AISI 4140 low alloy steel, oil quenched and tempered at 425℃
+  The material I picked for this design was AISI 4140 low alloy steel, oil quenched and tempered at 425℃.
 
 - E = 31.3e6 psi
-- $\sigma_y = 182 ksi
+- sigma_y = 182 ksi
 - Fatigue (10^6 cycles) = 102 ksi
 - Kic = 57.3 ksi*sqrt(in)
 
 **3. Boundary Conditions and Loads**:
 
-  Below is an image showing the clamped boundary condition on the top 0.4 inches of the drive, and the 37.5 lbf on the end of the handle, generating a moment of 600 in*lbf
+  Below is an image showing the clamped boundary condition on the top 0.4 inches of the drive, and the 37.5 lbf on the end of the handle, generating a moment of 600 in*lbf.
 
   <img src="{{ '/assets/images/TW-load-boundary.png' | relative_url }}" alt="Torque Wrench Drive Dimensions" style="max-width:100%;height:auto;border-radius:6px;">
 
 **4. Normal Strain Contours From FEM**:
 
-  The normal elastic strain of the torque wrench can be seen below. The maximum and minimum values are 0.0018153 and -0.0016909, respectively. These strains are located on the drive, and are due to stress concentrations. Along the handle, the strain varies with a smaller range
+  The normal elastic strain of the torque wrench can be seen below. The maximum and minimum values are 0.0018153 and -0.0016909, respectively. These strains are located on the drive, and are due to stress concentrations. Along the handle, the strain varies with a smaller range.
 
   <img src="{{ '/assets/images/TW-normal-elastic-strain.png' | relative_url }}" alt="Torque Wrench Drive Dimensions" style="max-width:100%;height:auto;border-radius:6px;">
 
@@ -70,23 +70,23 @@ image: /assets/images/TW-total-deformation.png
   - Normal Stress:
     <img src="{{ '/assets/images/TW-normal-stress.png' | relative_url }}" alt="Torque Wrench Drive Dimensions" style="max-width:100%;height:auto;border-radius:6px;">
     
-    The maximum normal stress in the torque wrench was 50.429 ksi, located at the connection between the handle and drive. The rest of the handle had a normal stress of around 5 ksi
+    The maximum normal stress in the torque wrench was 50.429 ksi, located at the connection between the handle and drive. The rest of the handle had a normal stress of around 5 ksi.
 
 
   - Load Point Deflection:
     <img src="{{ '/assets/images/TW-total-deformation.png' | relative_url }}" alt="Torque Wrench Drive Dimensions" style="max-width:100%;height:auto;border-radius:6px;">
  
-    The maximum deflection of the torque wrench was 0.47742 inches, located at the end of the handle. This is expected, with the total deformation decreasing as the point gets closer to the drive
+    The maximum deflection of the torque wrench was 0.47742 inches, located at the end of the handle. This is expected, with the total deformation decreasing as the point gets closer to the drive.
 
 
   - Strain at Strain Gauge:
     <img src="{{ '/assets/images/TW-strain-probe.png' | relative_url }}" alt="Torque Wrench Drive Dimensions" style="max-width:100%;height:auto;border-radius:6px;">
 
-    The strain at the strain gauge, located 1 inch from the middle of the drive, is 1.0643e-3, or 1064 microstrain
+    The strain at the strain gauge, located 1 inch from the middle of the drive, is 1.0643e-3, or 1064 microstrain.
 
 **7. Torque Wrench Sensitivity**:
 
-  Using the 1064 microstrain from the FEM analysis, the sensitivity k can be calculated by divinding the output by the strain at the gauge. Using an output of 0.38mV/V from the base design, the sensitivity k is equal to 2,800
+  Using the 1064 microstrain from the FEM analysis, the sensitivity k can be calculated by divinding the output by the strain at the gauge. Using an output of 0.38mV/V from the base design, the sensitivity k is equal to 357.14.
 
 
 **8. Strain gauge selected**:
