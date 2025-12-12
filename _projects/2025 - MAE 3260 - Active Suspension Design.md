@@ -3,35 +3,14 @@ layout: project
 title: Active Suspension Design
 description: Class project
 technologies: [MATLAB]
-image: /assets/images/Trash-compactor.jpeg
+image: /assets/images/3260-thumbnail.png
 ---
 
+## Final Group Work Report
 
-As part of a class project, I was put in a team of four people where we were tasked with coming up with a working prototype to solve a problem in a dorm room. Other than some general requirements, this is all that we were given. Through seven different steps, we had to go from an idea to a working prototype, in about 2 months time. These steps included: 
-    - Idea generation and brainstorming
-    - "Scrappy" prototype of three ideas
-    - Revision and iteration
-    - Picking a final design
-    - Initial prototype
-    - Revision and iteration 
-    - Final Prototype
+Below is the final group work report for the Active Suspension Design project. You can also <a href="{{ '/assets/files/MAE 3260 Final Group Work Report.pdf' | relative_url }}" download>download the PDF</a>.
 
-
-Below are photos documenting our process from step one to step seven:
-
-Initial Brainstorm:
-  <img src="{{ '/assets/images/Initial-Brainstorm.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-Initial Design:
-  <img src="{{ '/assets/images/initial-design.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-First Prototype:
-  <img src="{{ '/assets/images/first-prototype.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-First Build:
-  <img src="{{ '/assets/images/first-build.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
-Final Prototype:
-  <img src="{{ '/assets/images/Trash-compactor.jpeg' | relative_url }}" alt="Trash compactor prototype" style="max-width:100%;height:auto;border-radius:6px;">
-
+<div style="width: 100%; height: 900px; border: 1px solid #ccc; border-radius: 6px; overflow: hidden;">
+  <iframe src="{{ '/assets/files/MAE 3260 Final Group Work Report.pdf' | relative_url }}#toolbar=1&navpanes=0" width="100%" height="100%" style="border: none;"></iframe>
+</div>
 
