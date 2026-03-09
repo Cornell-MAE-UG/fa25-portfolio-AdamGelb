@@ -2,7 +2,7 @@
 layout: project
 title: MAE3240 Homework Problem
 description: Homework Problem
-image: /assets/images/MAE3240-thumbnail.png
+image: /assets/images/MAE3240-thumbnail.jpeg
 ---
 
 This problem was valuable because it took a complicated problem and broke it down into steps, where we start with one fin, then an array of fins, then the full system, building up to a final answer. I was able to calculate efficiencies of fin arrays and compare temperatures with and without the fin array, which is extremely helpful in knowing whether or not a fin array is necessary to cool an object. It turns out that the fin array is extremely helpful, as the deltaT value was 88.8 degrees Celsius. 
