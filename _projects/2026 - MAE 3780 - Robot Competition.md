@@ -2,7 +2,7 @@
 layout: project
 title: Robot Competition
 description: Class Competiton
-technologies: [Circuit Design, C, 3D printing]
+technologies: [Circuit Design, Coding in C without libraries, 3D printing]
 image: /assets/images/robot-final.png
 ---
 
@@ -10,6 +10,7 @@ image: /assets/images/robot-final.png
 
   As part of a class competition, my group was challenged to create a robot which needed to collect cubes on a board, while going against a competitor. My contributions are as followed:
 
+<br>
   - Built the entirety of the robot, including all circuitry. 
   - Tested hardware and software to ensure optimal performance.
   - Modified the 3D printed chassis in order for it to fit the robot. 
