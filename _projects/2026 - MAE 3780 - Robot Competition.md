@@ -15,7 +15,7 @@ image: /assets/images/robot-final.png
   - Modified the 3D printed chassis in order for it to fit the robot. 
   - Modified the arms and how they attach to the chassis in order to rotate and fit within the required boundary.
   - Created flowchart and circuit diagram.
-  - Wrote most of the report on the competition.
+  - Wrote question 1, 2, appendix B, and appendix D of the report on the competition.
 
 Below is the final group report for the Mechatronic Robot Competition. You can also <a href="{{ '/assets/files/MAE 3780 Final Report.pdf' | relative_url }}" download>download the PDF</a>.
 
